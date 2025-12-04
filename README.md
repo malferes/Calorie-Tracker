@@ -1,0 +1,1 @@
+THe purpose of the calorie tracker is to enter a food and how much calories it is.  This will add up for how much food you entered.  The use of AI was for the coding erros and help with creating templates.
